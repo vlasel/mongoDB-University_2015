@@ -10,7 +10,10 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>hw1-3</module>
+        <module>w1-hw1-3</module>
+        <module>w2-hw2-1</module>
+        <module>w2-hw2-4</module>
+        <module>w2-java_driver</module>
     </modules>
 
 
